@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="Advanced_Programming:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Advanced_Programming_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Advanced_Programming.jar">
+        <element id="module-output" name="Advanced_Programming" />
+      </element>
+      <element id="library" level="project" name="turingmachines  (2)" />
+      <element id="library" level="project" name="turingmachines" />
+    </root>
+  </artifact>
+</component>
